@@ -46,8 +46,8 @@ pm2 serve build 5000 --spa
 
 That is all 
 
-To check your website :
-http://YourSrverIPaddress.com:5000
+Live Sample : http://sol.sniperswap.com:5000
+
 
 ## Deployment
 
