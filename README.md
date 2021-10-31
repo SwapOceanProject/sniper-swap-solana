@@ -19,8 +19,6 @@ sudo ufw enable
 
 sudo ufw allow 5000
 
-sudo ufw allow https
-
 sudo ufw status
 
 sudo apt-get update
@@ -31,7 +29,7 @@ cd ../var/www/html
 
 git clone https://github.com/SniperProject/sniper-swap-solana.git
 
-cd sniper-swap
+cd sniper-swap-solana
 
 npm install @craco/craco --save
 
