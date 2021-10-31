@@ -29,7 +29,7 @@ sudo apt-get install git
 
 cd ../var/www/html
 
-git clone https://github.com/SniperProject/sniper-swap.git
+git clone https://github.com/SniperProject/sniper-swap-solana.git
 
 cd sniper-swap
 
