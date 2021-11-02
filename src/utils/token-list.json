@@ -187,12 +187,6 @@
       "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
     },
     {
-      "tokenSymbol": "XRP",
-      "mintAddress": "Ga2AXHpfAF6mv2ekZwcsJFqu7wB4NV331qNH7fW9Nst8",
-      "tokenName": "Wrapped XRP",
-      "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ripple/info/logo.png"
-    },
-    {
       "tokenSymbol": "SUSHI",
       "mintAddress": "AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy",
       "tokenName": "Wrapped SUSHI",
@@ -211,21 +205,6 @@
       "icon": "https://github.com/trustwallet/assets/raw/b0ab88654fe64848da80d982945e4db06e197d4f/blockchains/ethereum/assets/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9/logo.png"
     },
     {
-      "tokenSymbol": "HGET",
-      "mintAddress": "BtZQfWqDGbk9Wf2rXEiWyQBdBY1etnUUn6zEphvVS7yN",
-      "tokenName": "Wrapped HGET"
-    },
-    {
-      "tokenSymbol": "UBXT",
-      "mintAddress": "873KLxCbz7s9Kc4ZzgYRtNmhfkQrhfyWGZJBmyCbC3ei",
-      "tokenName": "Wrapped UBXT"
-    },
-    {
-      "tokenSymbol": "HNT",
-      "mintAddress": "HqB7uswoVg4suaQiDP3wjxob1G5WdZ144zhdStwMCq7e",
-      "tokenName": "Wrapped HNT"
-    },
-    {
       "tokenSymbol": "FRONT",
       "mintAddress": "9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw",
       "tokenName": "Wrapped FRONT",
@@ -236,11 +215,6 @@
       "mintAddress": "6WNVCuxCGJzNjmMZoKyhZJwvJ5tYpsLyAtagzYASqBoF",
       "tokenName": "Wrapped AKRO",
       "icon": "https://raw.githubusercontent.com/trustwallet/assets/878dcab0fab90e6593bcb9b7d941be4915f287dc/blockchains/ethereum/assets/0xb2734a4Cec32C81FDE26B0024Ad3ceB8C9b34037/logo.png"
-    },
-    {
-      "tokenSymbol": "HXRO",
-      "mintAddress": "DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc",
-      "tokenName": "Wrapped HXRO"
     },
     {
       "tokenSymbol": "UNI",
