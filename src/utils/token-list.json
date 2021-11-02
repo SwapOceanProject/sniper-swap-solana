@@ -19,6 +19,12 @@
       "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
+      "tokenSymbol": "USDC",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "tokenName": "USDC",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
       "tokenSymbol": "BTC",
       "mintAddress": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
       "tokenName": "Wrapped Bitcoin",
@@ -37,22 +43,136 @@
       "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png"
     },
     {
+      "tokenSymbol": "RAY",
+      "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+      "tokenName": "Raydium",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png"
+    },
+    {
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "tokenName": "Serum",
       "tokenSymbol": "SRM",
       "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
     },
     {
+      "mintAddress": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
+      "tokenName": "Coin98",
+      "tokenSymbol": "C98",
+      "icon": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/c98-512.svg"
+    },
+    {
+      "mintAddress": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+      "tokenName": "Bonfida",
+      "tokenSymbol": "FIDA",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp/logo.svg"
+    },
+    {
+      "mintAddress": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+      "tokenName": "Samoyed Coin",
+      "tokenSymbol": "SAMO",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU/logo.png"
+    },
+    {
+      "mintAddress": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+      "tokenName": "Star Atlas",
+      "tokenSymbol": "ATLAS",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png"
+    },
+    {
+      "mintAddress": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
+      "tokenName": "Oxygen Protocol",
+      "tokenSymbol": "OXY",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M/logo.svg"
+    },
+    {
+      "mintAddress": "DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc",
+      "tokenName": "HXRO (Sollet)",
+      "tokenSymbol": "HXRO",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc/logo.png"
+    },
+    {
+      "mintAddress": "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW",
+      "tokenName": "Solanium",
+      "tokenSymbol": "SLIM",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW/logo.png"
+    },
+    {
+      "mintAddress": "5Jq6S9HYqfG6TUMjjsKpnfis7utUAB69JiEGkkypdmgP",
+      "tokenName": "RAMP DEFI",
+      "tokenSymbol": "wRAMP",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Jq6S9HYqfG6TUMjjsKpnfis7utUAB69JiEGkkypdmgP/logo.png"
+    },
+    {
+      "mintAddress": "6uMUH5ztnj6AKYvL71EZgcyyRxjyBC5LVkscA5LrBc3c",
+      "tokenName": "Parsiq Token",
+      "tokenSymbol": "wPRQ",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6uMUH5ztnj6AKYvL71EZgcyyRxjyBC5LVkscA5LrBc3c/logo.png"
+    },
+    {
+      "mintAddress": "CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K",
+      "tokenName": "Wrapped ALEPH (Sollet)",
+      "tokenSymbol": "ALEPH",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K/logo.png"
+    },
+    {
+      "mintAddress": "GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z",
+      "tokenName": "Dexlab",
+      "tokenSymbol": "DXL",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z/logo.png"
+    },
+    {
+      "mintAddress": "SLRSSpSLUTP7okbCUBYStWCo1vUgyt775faPqz8HUMr",
+      "tokenName": "Solrise Finance",
+      "tokenSymbol": "SLRS",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLRSSpSLUTP7okbCUBYStWCo1vUgyt775faPqz8HUMr/logo.png"
+    },
+    {
+      "mintAddress": "4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y",
+      "tokenName": "Synthetify",
+      "tokenSymbol": "SNY",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y/logo.png"
+    },
+    {
+      "mintAddress": "TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs",
+      "tokenName": "SolFarm",
+      "tokenSymbol": "TULIP",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs/logo.svg"
+    },
+    {
+      "mintAddress": "3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR",
+      "tokenName": "Only1",
+      "tokenSymbol": "LIKE",
+      "icon": "https://only1.io/like-token.svg"
+    },
+    {
+      "mintAddress": "EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96",
+      "tokenName": "FABRIC",
+      "tokenSymbol": "FAB",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96/logo.png"
+    },
+    {
+      "mintAddress": "CjEm7iRHr5cwWTjtF7Xk58hnRiH4rz9NXboeeWjueFCc",
+      "tokenName": "Despawn",
+      "tokenSymbol": "DSPWN",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CjEm7iRHr5cwWTjtF7Xk58hnRiH4rz9NXboeeWjueFCc/logo.png"
+    },
+    {
+      "mintAddress": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
+      "tokenName": "Step",
+      "tokenSymbol": "STEP",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT/logo.png"
+    },
+    {
+      "mintAddress": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+      "tokenName": "Orca",
+      "tokenSymbol": "ORCA",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE/logo.png"
+    },
+    {
       "tokenSymbol": "CREAM",
       "mintAddress": "5Fu5UUgbjpUvdBveb3a1JTNirL8rXtiYeSMWvKjtUNQv",
       "tokenName": "Wrapped CREAM",
       "icon": "https://raw.githubusercontent.com/trustwallet/assets/4c82c2a409f18a4dd96a504f967a55a8fe47026d/blockchains/smartchain/assets/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888/logo.png"
-    },
-    {
-      "tokenSymbol": "USDC",
-      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "tokenName": "USDC",
-      "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "tokenSymbol": "YFI",
