@@ -13,6 +13,12 @@
       "icon": "http://sniperswap.com/img/logo.png"
     },
     {
+      "tokenSymbol": "BSPZ",
+      "mintAddress": "5d4m4R3vFLCL265rsqxTyTKcEEuVAgqqRyJ12PxNyViR",
+      "tokenName": "Bspotz",
+      "icon": "https://github.com/Bspotz/crypto/blob/main/logo.png"
+    },
+    {
       "tokenSymbol": "USDC",
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "tokenName": "USDC",
